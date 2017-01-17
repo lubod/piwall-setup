@@ -43,77 +43,77 @@ pi104=4bez_4
 [9bez_wall]
 #409+1+409+1+409
 width=1229
-#358+1+358+1+358
-height=1076
+#338+1+338+1+338
+height=1016
 x=0
 y=0
 
 [9bez_1]
 wall=9bez_wall
-width=376
-height=319
+width=378
+height=302
 x=0
 y=0
 
 [9bez_2]
 wall=9bez_wall
-width=376
-height=319
+width=378
+height=302
 #409+1+16
 x=426
 y=0
 
 [9bez_3]
 wall=9bez_wall
-width=376
-height=319
+width=378
+height=302
 #409+1+409+1+16
 x=836
 y=0
 
 [9bez_4]
 wall=9bez_wall
-width=376
-height=319
+width=378
+height=302
 x=0
-#358+1+19
-y=378
+#338+1+18
+y=357
 
 [9bez_5]
 wall=9bez_wall
-width=376
-height=319
+width=378
+height=302
 x=426
-y=378
+y=357
 
 [9bez_6]
 wall=9bez_wall
-width=376
-height=319
+width=378
+height=302
 x=836
-y=378
+y=357
 
 [9bez_7]
 wall=9bez_wall
-width=376
-height=319
+width=378
+height=302
 x=0
-#358+1+358+1+19
-y=737
+#338+1+338+1+18
+y=696
 
 [9bez_8]
 wall=9bez_wall
-width=376
-height=319
+width=378
+height=302
 x=426
-y=737
+y=696
 
 [9bez_9]
 wall=9bez_wall
-width=376
-height=319
+width=378
+height=302
 x=836
-y=737
+y=696
 
 [9bez]
 pi101=9bez_1
